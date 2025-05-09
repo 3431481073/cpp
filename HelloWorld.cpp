@@ -3,7 +3,7 @@
 
 int main(){
 	std::cout<<"HelloWorld!";
-	std::cout<<"Hello cpp";
+	std::cout<<"Hello Java";
 	return 0;
 	
 }
